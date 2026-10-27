@@ -1,0 +1,1 @@
+{ "name": "caliberux", "version": "1.0.0", "description": "CaliberUX dashboard screens", "scripts": { "start": "node server.js" }, "license": "MIT" }
